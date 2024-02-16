@@ -1,3 +1,7 @@
 body {
     background-color: black;
 }
+body{
+    alunos: .div;
+    background-color: :-moz-only-whitespace
+}
